@@ -1,0 +1,304 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"o",
+				"objeto"
+			],
+			[
+				"anio",
+				"anioNacimiento"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"get",
+				"getMonth"
+			],
+			[
+				"tipo",
+				"tipoAnimal"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"u",
+				"undefined"
+			],
+			[
+				"div",
+				"div5"
+			],
+			[
+				"add",
+				"addOdd"
+			],
+			[
+				"pa",
+				"parseInt\t(ejercicio-03.js)"
+			],
+			[
+				"fibo",
+				"fibo1"
+			],
+			[
+				"item",
+				"itemBuscado"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"nu",
+				"numero1"
+			],
+			[
+				"numero",
+				"numero2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 389.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/laboratoria/Desktop/laboratoria/ejercicioextra/assets/js/javascript.js",
+		"/home/laboratoria/Desktop/laboratoria/ejercicioextra/index.html",
+		"/home/laboratoria/Desktop/laboratoria/ejercicio2/assets/index.html",
+		"/home/laboratoria/Desktop/laboratoria/ejercicio audio/assets/index.html",
+		"/home/laboratoria/Desktop/laboratoria/ejercicio audio/assets/js/javascript.js",
+		"/home/laboratoria/Desktop/laboratoria/ejercicio2/assets/js/java.js",
+		"/home/laboratoria/Desktop/laboratoria/ejercicio2/index.html",
+		"/home/laboratoria/Desktop/laboratoria/ejercicio1/index.html",
+		"/home/laboratoria/Desktop/laboratoria/lista-frutas/index.html",
+		"/home/laboratoria/Desktop/laboratoria/arr-obj/js/main.js",
+		"/home/laboratoria/Desktop/ejercicio2objetos.js",
+		"/home/laboratoria/Desktop/jsDebbuging/js/main.js",
+		"/home/laboratoria/Desktop/aprendiendoGit/README.md",
+		"/home/laboratoria/Desktop/laboratoria/ejercicio1/assets/js/java.js",
+		"/home/laboratoria/Desktop/laboratoria/lista-frutas/README.md",
+		"/home/laboratoria/Desktop/laboratoria/index.html",
+		"/home/laboratoria/Desktop/lista-frutas/index.html",
+		"/home/laboratoria/Desktop/lista-frutas/assets/js/javascript.js",
+		"/home/laboratoria/Desktop/leccion-13/assets/js/javascript.js",
+		"/home/laboratoria/Desktop/leccion-13/index.html",
+		"/home/laboratoria/Desktop/ejercicio objeto ",
+		"/home/laboratoria/Desktop/ejguiado/READ.md",
+		"/home/laboratoria/Desktop/laboratoria/ejercicio evaluado bugs.js",
+		"/home/laboratoria/Desktop/laboratoria/ejercicio guiado",
+		"/home/laboratoria/Desktop/laboratoria/arr-obj/index.html",
+		"/home/laboratoria/Desktop/proyecto-sprint-1/js/app.js",
+		"/home/laboratoria/Desktop/ejercicio-evaluado/ejercicio-05.js",
+		"/home/laboratoria/Desktop/ejercicio-evaluado/ejercicio-05_test.js",
+		"/home/laboratoria/Desktop/proyecto-sprint-1/js/vendor/dont-look-at-me.js",
+		"/home/laboratoria/Desktop/ejercicio-evaluado/tests/ejercicio-05_test.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/08-code-modulation/ejercicio-02/ejercicio-02.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/08-code-modulation/ejercicio-03/ejercicio-03.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/08-code-modulation/ejercicio-01/ejercicio-01.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/08-code-modulation/ejercicio-01/tests/ejercicio-01_test.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/08-code-modulation/ejercicio-02/tests/ejercicio-02-read_test.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/08-code-modulation/ejercicio-02/tests/ejercicio-02_test.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/08-code-modulation/ejercicio-02/tests/ejercicio-02-delete_test.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/08-code-modulation/ejercicio-02/tests/ejercicio-02-create_test.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/02-tdd/ejercicio-01/ejercicio-01.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/02-tdd/ejercicio-01/test/test.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/02-tdd/ejercicio-02/test/test.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/02-tdd/ejercicio-02/ejercicio-02.js",
+		"/home/laboratoria/Desktop/prueba.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/02-tdd/ejercicio-07/ejercicio-07.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/02-tdd/ejercicio-07/test/test.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/02-tdd/ejercicio-06/ejercicio-06.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/02-tdd/ejercicio-05/ejercicio-05.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/02-tdd/ejercicio-05/test/test.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/02-tdd/ejercicio-06/test/test.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/02-tdd/ejercicio-07/ejercicio-06.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/02-tdd/ejercicio-06/test/test06.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/02-tdd/ejercicio-03/ejercicio-03.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/02-tdd/ejercicio-04/ejercicio-04.js",
+		"/home/laboratoria/Downloads/Ejercicio_05_-_Suma_de_numeros_impares.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/02-tdd/ejercicio-05/test/test05.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/02-tdd/ejercicio-03/test/test.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/02-tdd/ejercicio-04/test/test.js",
+		"/home/laboratoria/Desktop/function pedirCampo(nombreCampo){",
+		"/home/laboratoria/Downloads/Ejercicio_06_-_Suma_de_numeros_impares.js",
+		"/home/laboratoria/Desktop/laboratoria/bootcamp-exercises/02-tdd/package.json",
+		"/home/laboratoria/Desktop/index.html",
+		"/home/laboratoria/Desktop/script.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"//"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "javascript.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/laboratoria/ejercicioextra/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
